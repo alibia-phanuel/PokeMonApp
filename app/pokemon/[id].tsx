@@ -175,7 +175,6 @@ export default function Pokemon() {
           {/***justifi le tire End */}
         </View>
       </View>
-      <Text>Pokemon {params.id}</Text>
     </RootView>
   );
 }
